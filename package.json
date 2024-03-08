@@ -1,11 +1,12 @@
 {
-    "name": "seu-projeto-flutter",
+    "name": "seu-projeto-flutter-web",
     "version": "1.0.0",
     "scripts": {
-        "build": "flutter build web",
-        "start": "serve build/web"
+      "start": "serve build/web",
+      "build": "echo \"Build step is not required\""
     },
     "devDependencies": {
-        "serve": "^11.3.2"
+      "serve": "^11.3.2"
     }
-}
+  }
+  
