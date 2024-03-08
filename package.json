@@ -1,0 +1,11 @@
+{
+    "name": "seu-projeto-flutter",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "flutter build web",
+        "start": "serve build/web"
+    },
+    "devDependencies": {
+        "serve": "^11.3.2"
+    }
+}

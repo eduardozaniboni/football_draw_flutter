@@ -1,0 +1,24 @@
+{
+    "people": [
+        { "name": "Gabriel", "attack": 7, "defense": 4 },
+        { "name": "Lucas", "attack": 9, "defense": 5 },
+        { "name": "Pedro", "attack": 6, "defense": 7 },
+        { "name": "Mateus", "attack": 8, "defense": 6 },
+        { "name": "Miguel", "attack": 5, "defense": 9 },
+        { "name": "Arthur", "attack": 7, "defense": 3 },
+        { "name": "Gustavo", "attack": 6, "defense": 8 },
+        { "name": "Rafael", "attack": 4, "defense": 7 },
+        { "name": "Enzo", "attack": 8, "defense": 5 },
+        { "name": "Heitor", "attack": 6, "defense": 6 },
+        { "name": "Nicolas", "attack": 7, "defense": 5 },
+        { "name": "Daniel", "attack": 5, "defense": 7 },
+        { "name": "Leonardo", "attack": 9, "defense": 4 },
+        { "name": "Bernardo", "attack": 6, "defense": 8 },
+        { "name": "Eduardo", "attack": 7, "defense": 6 },
+        { "name": "Henrique", "attack": 4, "defense": 5 },
+        { "name": "Isaac", "attack": 8, "defense": 7 },
+        { "name": "Thiago", "attack": 7, "defense": 6 },
+        { "name": "Vinícius", "attack": 5, "defense": 8 },
+        { "name": "Caio", "attack": 6, "defense": 5 }
+    ]
+}
