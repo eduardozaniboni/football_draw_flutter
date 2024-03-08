@@ -1,12 +1,11 @@
 {
-    "name": "seu-projeto-flutter-web",
+    "name": "football_draw_app",
     "version": "1.0.0",
     "scripts": {
-      "start": "serve build/web",
-      "build": "echo \"Build step is not required\""
+        "start": "serve build/web",
+        "build": "echo \"Build step is not required\""
     },
     "devDependencies": {
-      "serve": "^11.3.2"
+        "serve": "^11.3.2"
     }
-  }
-  
+}
